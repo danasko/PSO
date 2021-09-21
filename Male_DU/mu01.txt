@@ -1,0 +1,12 @@
+## Odovzdávanie
+
+Úlohy odovzdávajte ***naraz*** v jednom zipe až na KONCI SEMESTRA. Samostatné riešenia úloh budú nazvané mu01.m, mu02.m atď a všetky spolu zazipujte. V prípade, že Vám chýba iba zopár bodov do pripustenia k skúške, môžete pár úloh odovzdať pred skúškou a zvyšok po nej. Ak úlohy odovzdáte až po skúške, nezabudnite si potom dať zapísať výslednú známku k predmetu.
+
+
+### Mala Uloha 01 - Vzdialenosť pixelov vo farebnom priestore
+
+Vytvorte skript ktorý načíta obrázok zátišia (zatisie.jpg z cv01.zip), pomocou ginputu nechá uživateľa vybrať jeden pixel v obrázku a potom zobrazí 2 obrázky na jednom bude vyobrazená Euklidovská vzdialenosť každého pixelu od uživateľom zvoleného pixelu v priestore RGB a na druhom v priestore Lab.
+
+Obrázky s vzdialenosťami vhodne naškálujte. Teda buď od 0 po aktuálnu max vzidalenosť, alebo od 0 po teoreticky maximálnu možú vzialenosť v danom farebnom priestore. Prvý prístup by mal vyzerať asi takto (colormapu môžete využiť aj inú).
+
+![Príklad riešenia](https://raw.githubusercontent.com/danasko/PSO/master/supplementary/other/mu01.png)
