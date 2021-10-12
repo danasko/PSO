@@ -3,6 +3,6 @@
 Úlohy odovzdávajte ***naraz*** v jednom zipe až na KONCI SEMESTRA. Samostatné riešenia úloh budú nazvané mu01.m, mu02.m atď a všetky spolu zazipujte. V prípade, že Vám chýba iba zopár bodov do pripustenia k skúške, môžete pár úloh odovzdať pred skúškou a zvyšok po nej. Ak úlohy odovzdáte až po skúške, nezabudnite si potom dať zapísať výslednú známku k predmetu.
 
 
-### mu07 - Ekvalizácia histogramu
+### mu03 - Ekvalizácia histogramu
 
 Naimplementujte funkciu ktorá na vstup vezme šedotónový obrázok a na výstupe vráti obrázok po ekvalizácii histogramu. Použite algoritmus popísaný na [wikipédii](https://en.wikipedia.org/wiki/Histogram_equalization). Signatúra funkcie bude E = myhisteq(I).
