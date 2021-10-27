@@ -1,0 +1,9 @@
+GUI development in Octave:
+(documentation)
+
+https://octave.org/doc/v4.2.2/GUI-Development.html#GUI-Development
+
+(sample tutorial video - in german, but subtitles can be switched to english)
+
+https://www.youtube.com/watch?v=w8wvewR2AWA&t=29s
+
