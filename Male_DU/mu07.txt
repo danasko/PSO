@@ -1,0 +1,11 @@
+## Odovzdávanie
+
+Úlohy odovzdávajte ***naraz*** v jednom zipe až na KONCI SEMESTRA. Samostatné riešenia úloh budú nazvané mu01.m, mu02.m atď a všetky spolu zazipujte. V prípade, že Vám chýba iba zopár bodov do pripustenia k skúške, môžete pár úloh odovzdať pred skúškou a zvyšok po nej. Ak úlohy odovzdáte až po skúške, nezabudnite si potom dať zapísať výslednú známku k predmetu.
+
+### mu07 - Rohy obdĺžnikov
+
+Vytvorte skript ktorý načíta obrázok obdĺžnikov (boxes.bmp z priecinka supplementary/other/) a pomocou metódy hit and miss nájde rohy obdĺžnikov.
+
+Rohy potom vykreslí do pôvodného obrázka červenými hviezdičkami nasledovne:
+
+![Príklad riešenia](https://github.com/danasko/PSO/blob/2430ba55a8cb2a47e7e030faff1130e7fe43c1b0/supplementary/other/mu08.png)
