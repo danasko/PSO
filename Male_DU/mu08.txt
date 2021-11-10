@@ -1,0 +1,9 @@
+## Odovzdávanie
+
+Úlohy odovzdávajte ***naraz*** v jednom zipe až na KONCI SEMESTRA. Samostatné riešenia úloh budú nazvané mu01.m, mu02.m atď a všetky spolu zazipujte. V prípade, že Vám chýba iba zopár bodov do pripustenia k skúške, môžete pár úloh odovzdať pred skúškou a zvyšok po nej. Ak úlohy odovzdáte až po skúške, nezabudnite si potom dať zapísať výslednú známku k predmetu.
+
+### mu08 - Hranový detektor smery
+
+Vytvorte funkciu, ktorá bez použitia príkazu edge vráti rozdelenie pixelov podľa smeorov hrán do n priečinkov. Filter si môžete vybrať ľubovolný, takisto môžete použiť funkciu z mu03 ak ju budete odovzdávať. Uhol zistíte podľa hodnôt gradientu pomocou trigonomickej funkcie atan2. Každému uhlu potom priradíte hodnotu priečinka (bin) ktoré budú rovnomerne rozdelené. Napríklad pre 4 priečinky to budú rozmedzia v stupňoch: [-45, 45), [45, 135), [135, 225), [225, 315). Pre vstupný šedotónový obrázok s rozmermi výška x šírka a hodnotu n bude výsup matica s rozmermi šírka a výška kde každý element bude v rozmedzí 0 až n-1 a bude označovať zvolený priečinok.
+
+Signatúra funkcie bude L = smery(I, n)
