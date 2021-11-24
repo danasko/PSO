@@ -1,0 +1,9 @@
+## Odovzdávanie
+
+Úlohy odovzdávajte ***naraz*** v jednom zipe až na KONCI SEMESTRA. Samostatné riešenia úloh budú nazvané mu01.m, mu02.m atď a všetky spolu zazipujte. V prípade, že Vám chýba iba zopár bodov do pripustenia k skúške, môžete pár úloh odovzdať pred skúškou a zvyšok po nej. Ak úlohy odovzdáte až po skúške, nezabudnite si potom dať zapísať výslednú známku k predmetu.
+
+### mu09 - Spojenie obrázkov vo Fourierovom spektre
+
+Naimplementujte skript, ktorý načíta dva rôzne obrázky zmení ich na rovnakú veľkosť (napr. 512 x 512). Potom spočítajte Fourierov obraz pre obidva obrázky a vytvorte kombinovaný obrázok tak, že zoberiete I. a III. kvadrant Fourierovho obrazu z prvého obrázku a II. a IV. kvadrant z druhého. Obrázok potom prekonvertujte naspäť a zobrazte.
+
+![Príklad riešenia](https://github.com/danasko/PSO/blob/04406c69a723c5722e11f0145b547bafc9dc7ee0/supplementary/other/mu06.png)
