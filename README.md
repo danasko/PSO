@@ -5,4 +5,4 @@ FMPH Pokrocile Spracovanie Obrazu
 https://docs.google.com/spreadsheets/d/1_2uC-0yY0nFvhjdF0rjAeVMV_cAXWyw7vvK2Vxtz5i8/edit?usp=sharing
 
 ## Projekty
-Vybranú tému projektu na schválenie mi pošlite do *23.11.2021 23:59* mailom na dana.skorvankova@fmph.uniba.sk !
+Deadline na 2. velku ulohu je do  *12.12.2021 23:59*! Riesenie posielajte mailom na dana.skorvankova@fmph.uniba.sk.
